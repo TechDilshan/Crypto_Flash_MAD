@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Get Started -->
+    <string name="get_topic">Welcome to World biggest Crypto news Center</string>
+    <string name="get_btn">Get Started</string>
+
+    <!-- Login -->
+    <string name="login_topic">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_pass">Password</string>
+    <string name="login_rem">Remember me</string>
+    <string name="login_frog">Forgot Password?</string>
+    <string name="login_creat">Don’t have an account?</string>
+    <string name="login_sign">Sign Up</string>
+    <string name="login_btn">Login</string>
+
+    <string name="login_hint_em">Enter your Email</string>
+    <string name="login_hint_pass">Enter your Password</string>
+
+    <!-- Sign Up -->
+    <string name="sign_topic">Sign Up</string>
+    <string name="sign_name">Full Name</string>
+    <string name="sign_email">Email</string>
+    <string name="sign_birth">Birthday</string>
+    <string name="sign_pass">Password</string>
+    <string name="sign_repass">Re-Password</string>
+    <string name="sign_btn">Sign Up</string>
+    <string name="sign_login">Login</string>
+    <string name="sign_log">Do you have an account?</string>
+
+    <string name="sign_hint_name">Enter your Full Name</string>
+    <string name="sign_hint_em">Enter your Email</string>
+    <string name="sign_hint_birth">Enter your DoB</string>
+    <string name="sign_hint_pass">Enter your Password</string>
+    <string name="sign_hint_repass">Re-enter Password</string>
+
+    <!-- Profile-->
+    <string name="prof_name">Chamika Dilshan</string>
+    <string name="prof_email">Email</string>
+    <string name="prof_email_ex">chamikadilshan@gmail.com</string>
+    <string name="prof_mobile">Mobile</string>
+    <string name="prof_mobile_ex">0703966227</string>
+    <string name="prof_birth">Birthday</string>
+    <string name="prof_birth_ex">2002/12/03</string>
+    <string name="prof_del">Delete</string>
+    <string name="Prof_edit">Edit Account</string>
+    <string name="prof_out">Logout</string>
+
+</resources>
